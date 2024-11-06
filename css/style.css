@@ -134,9 +134,10 @@ header {
     color: var(--color-contenido); 
     margin-top: 20px;
     margin-bottom: 40px;
-	margin-left: 350px;
-	margin-right: 350px;
+	margin-left: 25%;
+	margin-right: 25%;
     text-align: center;
+	flex-flow: column;
 }
 
 #products {
